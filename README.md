@@ -8,6 +8,8 @@ conda activate psychopy  # activates the appropriate conda environment with a wo
 python task_oldpy.py
 ```
 
+*Note*: make sure a `data/` directory also exists in the same directory as the task script; it's where the data will be saved.
+
 Here's a description of the files:
 
 `task.py` was the original script.
